@@ -1,5 +1,0 @@
-class Bank
-{
-public:
-
-};
